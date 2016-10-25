@@ -9,4 +9,4 @@ https://privatebin.info/
 https://privatebin.net/ 
 https://data.sparkfun.com/ 
 https://searx.me/ 
-http://demo.phproject.org/ 
+https://demo.phproject.org/ 
