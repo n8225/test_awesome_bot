@@ -8,4 +8,4 @@ before_install:
   - gem install awesome_bot
 script:
   - node test.js
-  - awesome_bot test.md --allow-dupe --allow-redirect
+  - awesome_bot test.md --allow-dupe --allow-redirect --allow-ssl
