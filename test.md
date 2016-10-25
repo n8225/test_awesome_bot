@@ -1,0 +1,12 @@
+https://ring.cx/ 
+https://demo.elabftw.net 
+https://www.sonerezh.bzh/demo/ 
+https://www.sonerezh.bzh/ 
+https://dev.webtrees.net/demo-stable/  
+https://cryptonote.me/ 
+https://paste.edraens.net/ 
+https://privatebin.info/ 
+https://privatebin.net/ 
+https://data.sparkfun.com/ 
+https://searx.me/ 
+http://demo.phproject.org/ 
